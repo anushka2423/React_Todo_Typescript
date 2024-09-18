@@ -1,3 +1,27 @@
+# ToDo App - React + TypeScript
+
+This is a simple ToDo application built using React and TypeScript. The app allows users to add, edit, delete, and store tasks in the browser's local storage, ensuring that the tasks persist even after the browser is refreshed.
+
+## Features
+
+- **Add ToDo**: Users can add tasks to the ToDo list.
+- **Edit ToDo**: Users can edit existing tasks.
+- **Delete ToDo**: Users can remove tasks from the list.
+- **Local Storage Persistence**: All tasks are stored in the browser's local storage, so the list will be retained even after the page is reloaded.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **TypeScript**: Superset of JavaScript that adds static typing.
+- **LocalStorage**: Used for persisting tasks in the browser.
+
+## Project Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/anushka2423/React_Todo_Typescript
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
